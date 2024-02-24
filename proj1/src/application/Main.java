@@ -75,7 +75,7 @@ public class Main extends Application {
 		root.setCenter(tile);
 		
 		
-		
+//creating a scerne
 		Scene scene=new Scene(root,250,300);
 		primaryStage.setScene(scene);
         primaryStage.setTitle("My Calculator");	
